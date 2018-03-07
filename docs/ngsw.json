@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "/PWCat_clone/index.html",
+  "index": "/PWCat_test/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/PWCat_clone/favicon.ico",
-        "/PWCat_clone/index.html",
-        "/PWCat_clone/inline.f244bc7258acb459b7b5.bundle.js",
-        "/PWCat_clone/main.616255bcce49d740c52d.bundle.js",
-        "/PWCat_clone/polyfills.32225f5d64cec6731cb0.bundle.js",
-        "/PWCat_clone/styles.10cafe8ced0dd541e1b5.bundle.css"
+        "/PWCat_test/favicon.ico",
+        "/PWCat_test/index.html",
+        "/PWCat_test/inline.f244bc7258acb459b7b5.bundle.js",
+        "/PWCat_test/main.616255bcce49d740c52d.bundle.js",
+        "/PWCat_test/polyfills.32225f5d64cec6731cb0.bundle.js",
+        "/PWCat_test/styles.10cafe8ced0dd541e1b5.bundle.css"
       ],
       "patterns": []
     },
@@ -21,10 +21,10 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/PWCat_clone/assets/icon-128x128.png",
-        "/PWCat_clone/assets/icon-152x152.png",
-        "/PWCat_clone/assets/icon-256x256.png",
-        "/PWCat_clone/assets/icon-512x512.png"
+        "/PWCat_test/assets/icon-128x128.png",
+        "/PWCat_test/assets/icon-152x152.png",
+        "/PWCat_test/assets/icon-256x256.png",
+        "/PWCat_test/assets/icon-512x512.png"
       ],
       "patterns": [
         "https:\\/\\/cataas\\.com\\/.*"
@@ -33,15 +33,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PWCat_clone/inline.f244bc7258acb459b7b5.bundle.js": "a47b22a18e536f777106fb306f5909c17ae2b78e",
-    "/PWCat_clone/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "/PWCat_clone/main.616255bcce49d740c52d.bundle.js": "6d3cbdc7af0890ee01867b939eac3410434e1365",
-    "/PWCat_clone/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
-    "/PWCat_clone/polyfills.32225f5d64cec6731cb0.bundle.js": "ef4a15e14c49eca3dbc81df434cbd8e2458e3375",
-    "/PWCat_clone/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "/PWCat_clone/styles.10cafe8ced0dd541e1b5.bundle.css": "f827ca5e07dddccee50fbdb16bd36db0070dba4a",
-    "/PWCat_clone/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
-    "/PWCat_clone/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat_clone/index.html": "806c7500f8c103f3333f0620d76fe4ea3fd0e9ff"
+    "/PWCat_test/inline.f244bc7258acb459b7b5.bundle.js": "a47b22a18e536f777106fb306f5909c17ae2b78e",
+    "/PWCat_test/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
+    "/PWCat_test/main.616255bcce49d740c52d.bundle.js": "6d3cbdc7af0890ee01867b939eac3410434e1365",
+    "/PWCat_test/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
+    "/PWCat_test/polyfills.32225f5d64cec6731cb0.bundle.js": "ef4a15e14c49eca3dbc81df434cbd8e2458e3375",
+    "/PWCat_test/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
+    "/PWCat_test/styles.10cafe8ced0dd541e1b5.bundle.css": "f827ca5e07dddccee50fbdb16bd36db0070dba4a",
+    "/PWCat_test/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
+    "/PWCat_test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PWCat_test/index.html": "fa852e3be51d312c2f3cc13b90646734a70d693e"
   }
 }
