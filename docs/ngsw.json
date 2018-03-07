@@ -9,10 +9,10 @@
       "urls": [
         "/PWCat_test/favicon.ico",
         "/PWCat_test/index.html",
-        "/PWCat_test/inline.f244bc7258acb459b7b5.bundle.js",
-        "/PWCat_test/main.616255bcce49d740c52d.bundle.js",
-        "/PWCat_test/polyfills.32225f5d64cec6731cb0.bundle.js",
-        "/PWCat_test/styles.10cafe8ced0dd541e1b5.bundle.css"
+        "/PWCat_test/inline.b51ffd0700f04b6a933c.bundle.js",
+        "/PWCat_test/main.8be9e9c9cd3cf3071f39.bundle.js",
+        "/PWCat_test/polyfills.ad37cd45a71cb38eee76.bundle.js",
+        "/PWCat_test/styles.86112b064e5a404ae09b.bundle.css"
       ],
       "patterns": []
     },
@@ -33,15 +33,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PWCat_test/inline.f244bc7258acb459b7b5.bundle.js": "a47b22a18e536f777106fb306f5909c17ae2b78e",
+    "/PWCat_test/inline.b51ffd0700f04b6a933c.bundle.js": "80ae478b4aee23d5720836161124ba63bc28c2e7",
     "/PWCat_test/assets/icon-128x128.png": "f444fd3ae0dbc3be5741ef77cf9d0aa21bcdd9d5",
-    "/PWCat_test/main.616255bcce49d740c52d.bundle.js": "6d3cbdc7af0890ee01867b939eac3410434e1365",
+    "/PWCat_test/main.8be9e9c9cd3cf3071f39.bundle.js": "15ce140560efb3a72440ff4c71c0c10220f95ba0",
     "/PWCat_test/assets/icon-152x152.png": "c439eef9906d5a1758700fbbc8ea38d7295eb1bb",
-    "/PWCat_test/polyfills.32225f5d64cec6731cb0.bundle.js": "ef4a15e14c49eca3dbc81df434cbd8e2458e3375",
+    "/PWCat_test/polyfills.ad37cd45a71cb38eee76.bundle.js": "f7eca8eeec782793d946a11338044f7426ab3494",
     "/PWCat_test/assets/icon-256x256.png": "aa794bf00591bd06c9fee00126b321baa155ee8d",
-    "/PWCat_test/styles.10cafe8ced0dd541e1b5.bundle.css": "f827ca5e07dddccee50fbdb16bd36db0070dba4a",
+    "/PWCat_test/styles.86112b064e5a404ae09b.bundle.css": "7464a41958778cb56c1e2bf7dd9c5d110525d45f",
     "/PWCat_test/assets/icon-512x512.png": "ad9b5746e8a586f161f92b21f97c4cd81b157965",
     "/PWCat_test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat_test/index.html": "fa852e3be51d312c2f3cc13b90646734a70d693e"
+    "/PWCat_test/index.html": "ef687912b91816a68db7d1ab3bf5b50df6fa3dec"
   }
 }
